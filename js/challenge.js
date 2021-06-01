@@ -1,5 +1,3 @@
-document.addEventListener("DOMContentLoaded", function(e) {
-  e.
-}
-
-)
+document.addEventListener("DOMContentLoaded", function() {
+  
+})
