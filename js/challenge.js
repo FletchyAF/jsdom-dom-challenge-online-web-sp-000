@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-  scope.setInterval(countUp() 1000);
+  const counterInteveral = scope.setInterval(countUp() 1000);
 });
 
 function countUp() {
