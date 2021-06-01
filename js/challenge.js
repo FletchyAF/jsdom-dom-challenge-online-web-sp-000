@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-  document.getElementById("counter").setInterval(function()[, 1000]);
+  document.getElementById("counter").setInterval(countUp()[, 1000]);
 )
 });
 
