@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", function() {
-  document.getElementById("counter").setInterval
+  document.getElementById("counter").setInterval(func)
 })
