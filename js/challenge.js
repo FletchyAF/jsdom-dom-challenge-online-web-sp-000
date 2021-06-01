@@ -1,3 +1,4 @@
 document.addEventListener("DOMContentLoaded", function() {
-  document.getElementById("counter").setInterval(func)
-})
+  document.getElementById("counter").setInterval(function, [1000]);
+)
+});
