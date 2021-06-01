@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-  const counterInteveral = document.setInterval(countUp() 1000);
+  const counterInteveral = .setInterval(countUp() 1000);
 });
 
 function countUp() {
