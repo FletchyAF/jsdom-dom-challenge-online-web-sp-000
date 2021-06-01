@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 function countUp() {
-  const counter = document.getElementByID("counter")
+  const counter = document.getElementByID("counter");
   
   counter + 1
 }
